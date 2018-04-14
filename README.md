@@ -1,4 +1,10 @@
-# Ananke, A theme for [Hugo](http://gohugo.io/), a framework for building websites.
+# Hugo Theme for TravisSwicegood.com
+
+This is based on the [Ananke] theme for [Hugo]. Below is the original README.
+
+---
+
+# Ananke, A theme for [Hugo], a framework for building websites.
 
 The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.
 
@@ -10,7 +16,7 @@ Features
 
 - Responsive
 - Accessible
-- Contact form 
+- Contact form
 - Custom Robots.txt (changes values based on environment)
 - Internal templates for meta data, google analytics, and DISQUS comments
 - RSS Discovery
@@ -134,3 +140,6 @@ If you find a bug or have an idea for a feature, feel free to use the [issue tra
 TODO:
 
 - fix hard-coded link to [section](https://github.com/budparr/gohugo-theme-ananke/blob/master/layouts/index.html#L32)
+
+[Ananke]: https://github.com/budparr/gohugo-theme-ananke
+[Hugo]: http://gohugo.io/
