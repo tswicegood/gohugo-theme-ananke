@@ -1,20 +1,20 @@
 {
-  "name": "gohugo-default-theme",
-  "version": "1.0.0",
+  "name": "hugo-tswicegood-theme",
+  "version": "0.0.1-alpha",
   "description": "Base Theme to start Hugo Sites",
-  "main": "index.js",  
+  "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theNewDynamic/thenewdynamic.com.git"
+    "url": "git@github.com:tswicegood/hugo-tswicegood-theme.git",
   },
   "keywords": [
     "hugo",
     "gohugo"
   ],
-  "author": "budparr",
+  "author": "tswicegood",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/theNewDynamic/thenewdynamic.com/issues"
+    "url": "https://github.com/tswicegood/hugo-tswicegood-theme/issues"
   },
-  "homepage": "https://github.com/theNewDynamic/thenewdynamic.com#readme"
+  "homepage": "https://github.com/tswicegood/hugo-tswicegood-theme#readme"
 }

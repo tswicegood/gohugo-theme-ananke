@@ -1,15 +1,20 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/spf13/hugoThemes#themetoml for an example
 
-name = "Ananke Gohugo Theme"
+name = "Travis Swicegood's Hugo Theme"
 license = "MIT"
-licenselink = "https://github.com/budparr/gohugo-theme-ananke/blob/master/LICENSE.md"
-description = "A Base theme for building full featured Hugo sites"
-homepage = "https://github.com/budparr/gohugo-theme-ananke"
-tags = ["website", "starter", "responsive", "Disqus", "blog", "Tachyons"]
+licenselink = "https://github.com/tswicegood/hugo-tswicegood-theme/blob/master/LICENSE.md"
+description = "Personal theme for Travis Swicegood's blog"
+homepage = "https://github.com/tswicegood/hugo-tswicegood-theme"
+tags = ["website", "personal", "responsive", "blog", "Tachyons"]
 features = ["posts", "shortcodes", "related content", "comments"]
 min_version = 0.30.2
 
 [author]
-  name = "Bud Parr"
-  homepage = "https://github.com/budparr"
+  name = "Travis Swicegood"
+  homepage = "https://github.com/tswicegood"
+
+[original]
+  name = "Ananke Gohugo Theme"
+  homepage = "https://github.com/budparr/gohugo-tswicegood-theme-ananke"
+  repo = "//github.com/budparr/gohugo-tswicegood-theme-ananke"
